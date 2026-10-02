@@ -1,2 +1,4 @@
 # InfinitoZ
-Páginas Web
+Creaciones de sitios web resposivos. 
+-Dinámicos. 
+-Estaticos. 
